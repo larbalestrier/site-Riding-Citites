@@ -120,7 +120,8 @@ p {
 }
 
 .sectionLinearGradientBackground {
-	background: linear-gradient(to right, var(--main-color), var(--second-color));
+	background: linear-gradient(to right,var(--main-color),var(--second-color));
+	
 }
 
 .whiteContentSection h2,
